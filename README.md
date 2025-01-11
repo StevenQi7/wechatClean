@@ -33,12 +33,16 @@
    chmod +x wechatClean.sh
    ./wechatClean.sh -t 3d -o move
    ```
+![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/1736082223101.jpg)
 
-
+![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/1736082223101.jpg)
 2. 还原文件：
    ```bash
    ./wechatClean.sh -o restore
    ```
+![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/QQ20250105-210506.png)
+
+![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/QQ20250105-210520.png)
 
 ### 注意事项
 - 在执行操作之前，请确保备份重要数据，以防数据丢失。

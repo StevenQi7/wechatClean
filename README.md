@@ -35,7 +35,7 @@
    ```
 ![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/1736082223101.jpg)
 
-![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/1736082223101.jpg)
+![image](https://github.com/StevenQi7/wechatClean/blob/main/pic/mac/1736082277192.jpg)
 2. 还原文件：
    ```bash
    ./wechatClean.sh -o restore
